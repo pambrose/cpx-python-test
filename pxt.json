@@ -16,5 +16,5 @@
     "supportedTargets": [
         "adafruit"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "tsprj"
 }

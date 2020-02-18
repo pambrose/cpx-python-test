@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="forever" id="ppyGo8wp7:_%XO9[/.uM" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="forever" id="wAv-gy_-^q-hBMy5JdQj" x="0" y="0"><statement name="HANDLER"><block type="typescript_statement" id="IUgq=,(O%LL/1,oNEhVU" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="light.showRing(&quot;red blue red yellow red red red red red red&quot;, 400)" numlines="1"></mutation></block></statement></block></xml>
